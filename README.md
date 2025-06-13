@@ -5,7 +5,7 @@
 
 🌱 Me apasiona la creación de soluciones basadas en datos y el desarrollo de aplicaciones web robustas.
 
-## 💼 Experiencia Profesional en Educación
+## 💼 Experiencia Profesional
 
 Mi experiencia profesional en el sector educativo me ha permitido desarrollar fuertes habilidades de **liderazgo**, **trabajo en equipo** y **gestión de personas**. He liderado equipos multidisciplinarios, promoviendo un ambiente de trabajo colaborativo, inclusivo y motivador. Creo firmemente en el poder de la **empatía** para generar un clima de confianza, donde cada miembro del equipo se sienta **valorado** y comprometido con los objetivos comunes.
 
