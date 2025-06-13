@@ -54,7 +54,6 @@ A lo largo de mi carrera, he aprendido a **identificar y cultivar talentos**, im
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 
